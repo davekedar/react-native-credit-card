@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "React Native Credit Card Demos",
+    "description": "Demonstrates the various demos of React Native Credit Card",
+    "slug": "react-native-credit-card-demos",
+    "sdkVersion": "29.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#6631BA",
+    "packagerOpts": {
+      "assetExts": ["ttf"]
+    }
+  }
+}
